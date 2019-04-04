@@ -1,0 +1,6 @@
+/Users/milo/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/milo/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/milo/Projects/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/milo/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/Users/milo/Projects/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.pdb
