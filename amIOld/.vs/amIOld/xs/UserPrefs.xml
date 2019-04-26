@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3B78A9B5-0B63-49FC-B786-DF20AE8E7A09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="amIOld/Program.cs">
+    <Files>
+      <File FileName="amIOld/Program.cs" Line="61" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.amIOld FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
