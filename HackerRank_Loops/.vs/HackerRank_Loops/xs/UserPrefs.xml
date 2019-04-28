@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8435956B-AC04-4B0A-8EFE-19F1D54CDF15}|Default">
+  <MonoDevelop.Ide.ItemProperties.HackerRank__Loops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HackerRank_Loops/Program.cs">
+    <Files>
+      <File FileName="HackerRank_Loops/Program.cs" Line="27" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
