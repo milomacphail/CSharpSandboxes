@@ -1,0 +1,6 @@
+/Users/milo/Projects/FourGuesses/FourGuesses/obj/x86/Debug/FourGuesses.csprojAssemblyReference.cache
+/Users/milo/Projects/FourGuesses/FourGuesses/obj/x86/Debug/FourGuesses.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/FourGuesses/FourGuesses/bin/Debug/FourGuesses.exe
+/Users/milo/Projects/FourGuesses/FourGuesses/bin/Debug/FourGuesses.pdb
+/Users/milo/Projects/FourGuesses/FourGuesses/obj/x86/Debug/FourGuesses.exe
+/Users/milo/Projects/FourGuesses/FourGuesses/obj/x86/Debug/FourGuesses.pdb
