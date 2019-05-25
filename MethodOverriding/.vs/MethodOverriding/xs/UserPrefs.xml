@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{7B49B658-E562-437F-84AC-8801E0A50C92}|Default">
+  <MonoDevelop.Ide.ItemProperties.MethodOverriding FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverriding/Program.cs">
+    <Files>
+      <File FileName="MethodOverriding/Program.cs" Line="14" Column="39" />
+      <File FileName="MethodOverriding/Shape.cs" Line="3" Column="27" />
+      <File FileName="MethodOverriding/Position.cs" Line="1" Column="1" />
+      <File FileName="MethodOverriding/Canvas.cs" Line="13" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
